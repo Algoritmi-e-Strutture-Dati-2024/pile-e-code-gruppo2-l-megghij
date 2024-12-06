@@ -1,3 +1,8 @@
+#include <iostream>
+#include <ListaPuntatori.cpp>
+#include <Pila.cpp>
+#include <Coda.cpp>
+
 int main(){
 
     Pila<int> pila1;
